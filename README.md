@@ -128,18 +128,6 @@ After completing this project, I should be able to:
 
 ---
 
-## Repository Structure
-
-```text
-cybersecurity-ethics/
-│
-├── README.md
-│
-└── 0-responsible_disclosure.md
-```
-
----
-
 ## Disclaimer
 
 This repository is intended for educational and cybersecurity training purposes.
